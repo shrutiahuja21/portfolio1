@@ -383,7 +383,7 @@ const App = () => {
                                 {
                                     role: 'AI / ML Engineer',
                                     company: 'Techlance.ai',
-                                    period: 'Dec 2024 – Present',
+                                    period: 'Sep 2025 – Present',
                                     points: [
                                         'Architecting an advanced AI CRM system integrated with autonomous agents.',
                                         'Developing sophisticated AI workflows to enhance customer relationship management.',
@@ -393,7 +393,7 @@ const App = () => {
                                 {
                                     role: 'Data Scientist',
                                     company: 'Actualisation.ai',
-                                    period: 'Jun 2024 – Dec 2024',
+                                    period: 'Jun 2024 – Sep 2025',
                                     points: [
                                         'Led LLM, LangChain, RAG, and Generative AI projects like Firefly Email Integration.',
                                         'Optimized AI workflows, reducing processing time by 25%.',
@@ -449,7 +449,7 @@ const App = () => {
             </main>
 
             <footer className="border-t border-[#fff]/10 py-12 text-center text-[#94a3b8]">
-                <p>© 2025 Shruti Ahuja. Crafted with React & Framer Motion.</p>
+                <p>© 2026 Shruti Ahuja. Crafted with React & Framer Motion.</p>
             </footer>
         </div>
     );
